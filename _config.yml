@@ -16,11 +16,12 @@
 title: Sane Defaults for Digital Wellbeing
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  A collective effort for bringing sanity back to digital platforms
+  A collective effort to bring sanity back to social media and digital platforms
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://sanedefaults.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username:
-github_username:
+github:
+  owner_name: Onur Solmaz
+  owner_url: https://twitter.com/OnurHSolmaz
 
 # Build settings
 markdown: kramdown

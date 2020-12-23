@@ -1,7 +1,6 @@
 ---
-layout: page
+layout: default
 title: Twitter
-permalink: /twitter/
 ---
 
 ## Change Twitter feed to "Latest Tweets" mode
