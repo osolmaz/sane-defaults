@@ -1,4 +1,8 @@
-# Sane Defaults for Digital Wellbeing
+---
+layout: home
+---
+
+<a href="https://github.com/you"><img loading="lazy" width="149" height="149" src="https://github.blog/wp-content/uploads/2008/12/forkme_left_red_aa0000.png?resize=149%2C149" class="attachment-full size-full" alt="Fork me on GitHub" data-recalc-dims="1"></a>
 
 Controlling the information you consume, is essential to preserving your individual sovereignty. Ad-blocking and abstinence from algorithmic feeds is a necessity in the digital age. Don't let them control your dopamine!
 
@@ -9,30 +13,3 @@ Platforms use [dark patterns](https://en.wikipedia.org/wiki/Dark_pattern) to nud
 We created a comprehensive list of sane defaults for every digital platform, to help you take back control.
 
 Related: [7 Rules for Digital Hygiene](https://solmaz.io/thoughts/digital-hygiene-feeds/)
-
-## Platforms
-
-
-### Facebook
-
-TBD
-
-### TikTok
-
-**TikTok's only feature is its algorithmic feed. Therefore, sane usage is not possible. Simply delete the app from your phone.**
-
-### Instagram
-
-TBD
-
-### Netflix
-
-TBD
-
-### Snapchat
-
-TBD
-
-## Contributing
-
-If you want to contribute, you can fork the repository and create a pull request.
