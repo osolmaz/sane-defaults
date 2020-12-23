@@ -3,7 +3,11 @@ layout: default
 title: Twitter
 ---
 
-## Change Twitter feed to "Latest Tweets" mode
+As a social media platform, Twitter has medium toxicity. In terms of user control, Twitter allows for relatively fine-grained control over the feed, blocking accounts, and muting keywords.
+
+Below are the recommendations for using Twitter.
+
+## Change feed to "Latest Tweets" mode
 
 Click the "sparkles icon" at the top of your feed. (The icon is not descriptive and can be considered a dark pattern.)
 
@@ -31,9 +35,9 @@ Confirm that you want to block the account. From this point on, you will not be 
 
 Sometimes, it is not enough to just block accounts, as the toxic memes still creep into your feed. In that case, you may want to block certain keywords out of your feed. Twitter allows this functionality with "Muted keywords". When you mute a keyword, tweets including it will not show up in your feed.
 
-Unfortunately, Twitter has hid the link to this feature. This is a dark pattern. You can reach the settings page by [clicking this link](https://twitter.com/settings/muted_keywords).
+Twitter hid the link to this feature on the web app, but it can still be reached in mobile through `Settings` > `Notifications` > `Muted` > `Muted words`. You can also click <a href="https://twitter.com/settings/muted_keywords" target="_blank">here</a>.
 
-Then, click the plus icon.
+Click the plus icon.
 
 ![](/assets/twitter-muted-keywords-1.png)
 
@@ -42,3 +46,27 @@ In the next screen, simply enter the keyword that you want to mute. Don't forget
 ![](/assets/twitter-muted-keywords-2.png)
 
 Click Save to save your setting. You will never see that word again in your feed.
+
+## Push notifications
+
+We recommend disabling all push notifications, as they are almost never useful to the average user. Click <a href="https://twitter.com/settings/push_notifications" target="_blank">here</a> to adjust.
+
+![](/assets/twitter-push-notifications.png)
+
+## Email notificatations
+
+We recommend disabling all email notifications, as they are almost never useful to the average user. Click <a href="https://twitter.com/settings/email_notifications" target="_blank">here</a> to adjust.
+
+![](/assets/twitter-email-notifications.png)
+
+## Muted notifications
+
+We recommend muting notifications from people who don't follow you. Click <a href="https://twitter.com/settings/notifications/advanced_filters" target="_blank">here</a> to adjust.
+
+![](/assets/twitter-muted-notifications.png)
+
+You can also try muting notifications from people you don't follow. This is up to your follower count, as the number of notifications increase dramatically with a large following.
+
+## Delete the app
+
+If you are suffering from social media addiction, we recommend deleting the app from your phone, and just using it on the mobile browser. The extra steps involved while opening the site will help you control your habit, and the worsened user experience will condition you to decrease your usage.
