@@ -12,9 +12,19 @@ We present below a comprehensive list of sane defaults for every digital platfor
 - **[Facebook](/facebook)**
 - **[Instagram](/instagram)**
 - **[TikTok](/tiktok)**
+- **[Reddit](/reddit)**
 - **[Netflix](/netflix)**
 - **[WhatsApp](/whatsapp)**
 - **[Snapchat](/snapchat)**
+- **[YouTube](/youtube)**
+- **[Twitch](/twitch)**
+- **[Tumblr](/tumblr)**
+- **[LinkedIn](/linkedin)**
+- **[Telegram](/telegram)**
+- **[9gag](/9gag)**
+- **[Imgur](/imgur)**
+- **[Discord](/discord)**
+- **[Tinder](/tinder)**
 
 Also related: [7 Rules for Digital Hygiene](https://solmaz.io/thoughts/digital-hygiene-feeds/)
 
