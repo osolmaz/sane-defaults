@@ -8,10 +8,17 @@ A **sane default** is a concept in software engineering, meaning *a default sett
 
 We present below a comprehensive list of sane defaults for every digital platform, to help you take back control.
 
+### Added
+
 - **[Twitter](/twitter)**
-- **[Facebook](/facebook)**
 - **[Instagram](/instagram)**
 - **[TikTok](/tiktok)**
+
+### To be done
+
+This is a work in progress. I would appreciate your help with adding content for the following platforms ❤️. (Following the style set in the ones above)
+
+- **[Facebook](/facebook)**
 - **[Reddit](/reddit)**
 - **[Netflix](/netflix)**
 - **[WhatsApp](/whatsapp)**
@@ -26,7 +33,7 @@ We present below a comprehensive list of sane defaults for every digital platfor
 - **[Discord](/discord)**
 - **[Tinder](/tinder)**
 
-Also related: [7 Rules for Digital Hygiene](https://solmaz.io/thoughts/digital-hygiene-feeds/)
+**Also consider checking out: [7 Rules for Digital Hygiene](https://solmaz.io/thoughts/digital-hygiene-feeds/)**
 
 ## Contribute
 

@@ -3,4 +3,4 @@ layout: default
 title: WhatsApp
 ---
 
-TBD
+**Help Wanted:** Please consider contributing to the [repository](https://github.com/osolmaz/sane-defaults).

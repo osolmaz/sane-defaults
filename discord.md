@@ -3,4 +3,4 @@ layout: default
 title: Discord
 ---
 
-TBD
+**Help Wanted:** Please consider contributing to the [repository](https://github.com/osolmaz/sane-defaults).

@@ -9,7 +9,7 @@ Below are the recommendations for using Twitter.
 
 ## Change feed to "Latest Tweets" mode
 
-Click the "sparkles icon" at the top of your feed. (The icon is not descriptive and can be considered a dark pattern.)
+Click the "sparkles icon" at the top of your feed.
 
 ![](/assets/twitter-latest-tweets-1.png)
 
@@ -17,7 +17,9 @@ Click `See latest Tweets instead`.
 
 ![](/assets/twitter-latest-tweets-2.png)
 
-Notice that it says `You'll be switched back Home after you've been away for a while`. Make sure that you occasionally check the top of your feed so that it says `Latest Tweets` instead of `Home`. This is a dark pattern. Twitter wants to make sure that people eventually converge to algorithmic feeds.
+Notice that it says `You'll be switched back Home after you've been away for a while`. Make sure that you occasionally check the top of your feed so that it says `Latest Tweets` instead of `Home`.
+
+⚠️ **Dark pattern: Twitter wants to make sure that everyone eventually converges to algorithmic feeds.** ⚠️
 
 ## Block toxic accounts
 
@@ -69,4 +71,4 @@ You can also try muting notifications from people you don't follow. This is up t
 
 ## Delete the app
 
-If you are suffering from social media addiction, we recommend deleting the app from your phone, and just using it on the mobile browser. The extra steps involved while opening the site will help you control your habit, and the worsened user experience will condition you to decrease your usage.
+If you are suffering from Twitter addiction, we recommend deleting the app from your phone, and just using it on the mobile browser. The extra steps involved while opening the site will help you control your habit, and the worsened user experience will condition you to decrease your usage.
